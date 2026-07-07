@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Alex 👋
 
-<!--
-**Panix64/Panix64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Marketing & Market Research student at UOC, focused on Marketing Data Analytics and Business Intelligence.
 
-Here are some ideas to get you started:
+I'm building practical projects using SQL, Power BI and Python to analyze marketing performance, customer behavior, funnel metrics and business growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus areas
+
+* Marketing Analytics
+* Business Intelligence
+* Funnel & Campaign Performance
+* Customer Insights
+* SQL, Power BI and Python
+
+## Current goal
+
+Building a strong data portfolio to apply for remote Junior Marketing Data Analyst, BI Analyst and Marketing Performance Analyst roles in Europe.
